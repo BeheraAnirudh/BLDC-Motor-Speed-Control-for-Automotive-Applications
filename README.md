@@ -1,2 +1,3 @@
-# BLDC-Motor-Speed-Control-for-Automotive-Applications
-BLDC Motor Speed Control for Automotive Applications
+**BLDC Motor Speed Control for Automotive Applications**
+
+Brushless DC Motor is widely used in many applications due to its several benefits. The development of BLDC motor control system requires reliable operation, excellent performance of control algorithm, low cost, and short development cycle. This paper proposes the speed control of BLDC motor for an electric vehicle. The flexibility of the drive system is increased using PID controller. The 3-phase inverter is implemented using Smart Power Module for feeding BLDC motor. The proposed system accepts Hall sensor signals from the motor and is programmed for desired speed. Experimental results verify the control nature of developed drive scheme.
